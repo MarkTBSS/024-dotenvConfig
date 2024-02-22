@@ -4,7 +4,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/MarkTBSS/go-dotenvConfig/config"
+	"github.com/MarkTBSS/24-dotenvConfig/config"
 )
 
 func main() {
