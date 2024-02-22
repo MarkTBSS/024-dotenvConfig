@@ -4,7 +4,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/MarkTBSS/24-dotenvConfig/config"
+	"github.com/MarkTBSS/024-dotenvConfig/config"
 )
 
 func main() {

@@ -1,4 +1,4 @@
-module github.com/MarkTBSS/24-dotenvConfig
+module github.com/MarkTBSS/024-dotenvConfig
 
 go 1.21.5
 
